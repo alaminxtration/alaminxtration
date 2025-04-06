@@ -19,7 +19,15 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,flask,nodejs,js,mysql,postgres,kafka,spark,aws,docker,git,linux,vscode,tensorflow,pytorch,hadoop" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,flask,nodejs,js,mysql,postgres,python,kafka,aws,docker,git,linux,vscode,tensorflow,pytorch,hadoop" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23FFDD54?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%231D2951?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
