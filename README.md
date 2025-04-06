@@ -57,17 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alaminxtration&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
----
-
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <a href="https://github.com/alamin-cse/your-top-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alaminxtration&repo=your-top-repo&theme=radical" />
-  </a>
-</p>
-
 
 ---
 
