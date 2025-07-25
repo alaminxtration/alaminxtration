@@ -10,10 +10,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=alaminxtration&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminxtraction/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecoalamin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
+
+---
 
 ## 🧠 About Me
 
@@ -34,6 +39,8 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 - 🧠 Neural Network optimization and deployment
 - 📊 Large-scale data processing and visualization
 - 🔄 Real-time streaming systems and microservices
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -73,11 +80,16 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </details>
- ⚙️ DevOps & Automation
+
+## ⚙️ DevOps & Automation
+
+<div align="center">
 
 ![Build Status](https://github.com/alaminxtration/alaminxtration/workflows/CI/badge.svg)
 ![Python CI](https://github.com/alaminxtration/alaminxtration/workflows/Python%20CI%2FCD%20Pipeline/badge.svg)
 ![Profile Update](https://github.com/alaminxtration/alaminxtration/workflows/Auto%20Update%20README/badge.svg)
+
+</div>
 
 **🔄 Active Workflows:**
 
@@ -95,7 +107,9 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 - ✅ Dynamic README updates with latest activity
 - ✅ Performance monitoring and benchmarking
 
-##  GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -106,7 +120,15 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 
 </div>
 
+---
+
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### 💡 **Building the Future with AI & Innovation** 💡
+
+</div>
 
 ### 🤖 AI & Machine Learning
 
@@ -114,7 +136,7 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 - **Computer Vision Pipeline** - Real-time object detection and tracking with OpenCV and TensorFlow
 - **NLP Sentiment Analysis** - Multi-language sentiment classifier with 94% accuracy
 
-###  Autonomous Systems
+### 🚗 Autonomous Systems
 
 - **Vehicle Data Pipeline** - Real-time data ingestion and processing using Apache Kafka and AWS Kinesis
 - **Sensor Fusion System** - Integration of LiDAR, camera, and GPS data for autonomous navigation
