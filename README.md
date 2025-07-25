@@ -190,26 +190,6 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 - 🚀 High-Performance Computing with CUDA
 - 🌐 Edge AI and IoT implementations
 
-## ⚡ Quick Facts About Me
-
-```python
-class AlAmin:
-    def __init__(self):
-        self.name = "Md Al Amin"
-        self.role = "Software Engineer & AI Enthusiast"
-        self.location = "Sichuan University, China"
-        self.languages = ["Python", "C++", "Java", "JavaScript"]
-        self.specialties = ["AI/ML", "Real-time Systems", "Data Engineering"]
-        self.currently_learning = ["MLOps", "Distributed Systems", "Computer Vision"]
-        self.fun_fact = "I think in code and dream in algorithms 🤖"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
-
-me = AlAmin()
-me.say_hi()
-```
-
 ## 🌟 Philosophy & Approach
 
 > **"The best way to predict the future is to create it."** – Peter Drucker
