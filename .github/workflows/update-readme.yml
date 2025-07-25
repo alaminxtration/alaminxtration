@@ -2,8 +2,8 @@ name: Auto Update README
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Runs on the 1st day of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
     - name: Update README with latest blog posts
       uses: gautamkrishnar/blog-post-workflow@master
       with:
-        feed_list: "https://your-blog.com/feed.xml"
+        feed_list: "https://dev.to/feed/alaminxtration,https://medium.com/feed/@alaminxtration"
         max_post_count: 5
         template: "### 📝 Latest Blog Posts\n<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->"
     
