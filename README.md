@@ -45,8 +45,7 @@
 
 - 🤖 **AI & Machine Learning Projects** – Neural networks, classifiers, and optimization models using PyTorch/TensorFlow  
 - 🚘 **Autonomous Vehicle Data Pipeline** – Real-time ingestion, processing, and ML analysis using Kafka, Flink, and AWS  
-- 📊 **Exploratory Data Analysis** – Cleaned, visualized, and modeled large datasets for insight extraction  
-- 🧮 **Quicksort Optimizations in C++** – Implemented multiple variants with stack-based and hybrid methods  
+- 📊 **Exploratory Data Analysis** – Cleaned, visualized, and modeled large datasets for insight extraction 
 
 ---
 
