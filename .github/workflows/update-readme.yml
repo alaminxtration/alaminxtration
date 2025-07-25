@@ -1,0 +1,39 @@
+name: Auto Update README
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Update README with latest blog posts
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://your-blog.com/feed.xml"
+        max_post_count: 5
+        template: "### 📝 Latest Blog Posts\n<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->"
+    
+    - name: Update README with recent activity
+      uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        COMMIT_MSG: 'Update README with recent activity'
+        MAX_LINES: 5
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "Auto-update README"
+        git push

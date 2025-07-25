@@ -73,8 +73,29 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </details>
+ ⚙️ DevOps & Automation
 
-## � GitHub Analytics
+![Build Status](https://github.com/alaminxtration/alaminxtration/workflows/CI/badge.svg)
+![Python CI](https://github.com/alaminxtration/alaminxtration/workflows/Python%20CI%2FCD%20Pipeline/badge.svg)
+![Profile Update](https://github.com/alaminxtration/alaminxtration/workflows/Auto%20Update%20README/badge.svg)
+
+**🔄 Active Workflows:**
+
+- 🔨 **Python CI/CD** - Multi-version testing, linting, and Docker deployment
+- 📝 **README Automation** - Daily updates with latest blog posts and activity
+- 📊 **Profile Metrics** - Automated GitHub statistics and achievements tracking
+- 🔍 **Security Scanning** - CodeQL analysis for vulnerability detection
+
+**✨ Automation Features:**
+
+- ✅ Multi-environment testing (Python 3.8-3.11)
+- ✅ Code quality enforcement (Black, isort, flake8)
+- ✅ Automated security vulnerability scanning
+- ✅ Docker image CI/CD pipeline
+- ✅ Dynamic README updates with latest activity
+- ✅ Performance monitoring and benchmarking
+
+##  GitHub Analytics
 
 <div align="center">
   
@@ -93,7 +114,7 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 - **Computer Vision Pipeline** - Real-time object detection and tracking with OpenCV and TensorFlow
 - **NLP Sentiment Analysis** - Multi-language sentiment classifier with 94% accuracy
 
-### � Autonomous Systems
+###  Autonomous Systems
 
 - **Vehicle Data Pipeline** - Real-time data ingestion and processing using Apache Kafka and AWS Kinesis
 - **Sensor Fusion System** - Integration of LiDAR, camera, and GPS data for autonomous navigation
