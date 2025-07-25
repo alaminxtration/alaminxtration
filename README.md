@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Al Amin</h1>
-<h3 align="center">🚀 Software Engineer | AI Enthusiast | Data Analyst | Real-Time Systems Explorer</h3>
+<h3 align="center">🚀 Software Engineer | AI Enthusiast | Real-Time Systems Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Engineer+by+Discipline;AI+Enthusiast+by+Passion;Data+Driven.+Logic+Obsessed.+🚀" alt="Typing SVG" />
@@ -10,8 +10,7 @@
 ### 🧠 About Me
 - 🎓 3rd Year Software Engineering student at Sichuan University  
 - 🔬 Passionate about **AI**, **Data Analysis**, and **Real-Time Systems**  
-- 🤖 AI Enthusiast — love experimenting with machine learning and deep learning models  
-- 🚘 **Currently working on Autonomous Vehicle Simulation Data Analysis & Pipeline** using Kafka, Flink, PyTorch, AWS & HDFS  
+- 🤖 AI Enthusiast — love experimenting with machine learning and deep learning models   
 - 🧪 Obsessed with building high-performance, intelligent systems backed by clean code and solid architecture  
 
 ---
