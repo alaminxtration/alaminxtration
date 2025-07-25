@@ -174,43 +174,6 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 
 </div>
 
-## 🎯 Current Goals & Learning Journey
-
-**2025 Focus Areas:**
-
-- 🧠 Advanced Deep Learning architectures (Transformers, GANs)
-- ☁️ Cloud-native AI/ML deployment on AWS/GCP
-- 🔄 Real-time streaming data architectures
-- 🤖 MLOps and model lifecycle management
-
-**Always Learning:**
-
-- 📚 Distributed Systems Design Patterns
-- 🔬 Computer Vision and Medical AI
-- 🚀 High-Performance Computing with CUDA
-- 🌐 Edge AI and IoT implementations
-
-## 🌟 Philosophy & Approach
-
-> **"The best way to predict the future is to create it."** – Peter Drucker
-
-**My Development Principles:**
-
-- 🎯 **Quality over Quantity** - Write clean, maintainable, and scalable code
-- 🔬 **Data-Driven Decisions** - Let metrics and analysis guide development choices
-- 🤝 **Collaborative Growth** - Learn from others and share knowledge openly
-- 🚀 **Continuous Innovation** - Always exploring new technologies and methodologies
-
-**What Drives Me:**
-
-- 🤖 **AI isn't the future — it's my present**
-- 📊 Data tells stories. I listen, analyze, and act
-- 🚦 Real-time, high-performance systems fascinate me
-- 🎯 Code should be smart, simple, and scalable
-
----
-
-<div align="center">
 
 ### 🚀 Ready to Build the Future Together?
 
