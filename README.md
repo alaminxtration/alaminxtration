@@ -109,6 +109,16 @@ I'm a passionate **Software Engineering student** at Sichuan University with a d
 
 ---
 
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
